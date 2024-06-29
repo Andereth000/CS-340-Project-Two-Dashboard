@@ -6,7 +6,7 @@ To write programs that are maintainable, readable and adaptable, I follow the st
 
 # How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
-To approach the problem as a computer scientist, I will first be sure to fully understand the requirements of the project. Then, as I am implementing the different functionality, I test and debug from the perspective of the end user. This helps me to better understand what works and what needs to be changed. This approach is very similar to previous assignments except for the fact that I am learning more about how to evolve to different scenarios and environments, and have a better feel for the limitations I may have when working with these tools.
+To approach the problem as a computer scientist, I will first be sure to fully understand the requirements of the project. Then, as I am implementing the different functionality, I test and debug from the perspective of the end user. This helps me to better understand what works and what needs to be changed. This approach is very similar to previous assignments except for the fact that I am learning more about how to adapt to different scenarios and environments, and have a better feel for the limitations I may have when working with these tools.
 
 # What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
